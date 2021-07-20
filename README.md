@@ -5,7 +5,7 @@ The objective of this report is to identify the states that should be prioritize
 
 ## Setup/Installation Requirements
 * A laptop and good internet connection
-*
+
 ## Known Bugs
 {There are no known bugs. }
 ## Technologies Used
