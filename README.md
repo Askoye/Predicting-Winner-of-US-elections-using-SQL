@@ -1,7 +1,7 @@
 # Predicting-Winner-of-US-elections-using-SQL
 
 ## Description
-The objective of this report is toIdentify the states that should be prioritized to win the US general election using SQL. 
+The objective of this report is to identify the states that should be prioritized to win the US general election using SQL. 
 
 ## Setup/Installation Requirements
 * A laptop and good internet connection
